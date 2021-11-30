@@ -1,0 +1,19 @@
+{
+  "name": "algoritmia",
+  "version": "1.0.0",
+  "description": "algorithm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertJohanson/algoritmia.git"
+  },
+  "author": "Albert Johanson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlbertJohanson/algoritmia/issues"
+  },
+  "homepage": "https://github.com/AlbertJohanson/algoritmia#readme"
+}
